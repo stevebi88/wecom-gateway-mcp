@@ -72,8 +72,8 @@
 
 ```bash
 # 1) 克隆
-git clone https://github.com/stevebi88/wechat-gateway-mcp.git
-cd wechat-gateway-mcp
+git clone https://github.com/stevebi88/wecom-gateway-mcp.git
+cd wecom-gateway-mcp
 
 # 2) 配置环境变量（复制模板，填入你自己的网关地址与令牌）
 cp .env.example .env
