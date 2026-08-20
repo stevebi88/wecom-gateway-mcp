@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地密钥 / 配置（切勿提交）
+.env
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
